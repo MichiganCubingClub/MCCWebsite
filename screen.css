@@ -26,7 +26,7 @@ img { outline: 0; border: 0; }
 	#pitch { clear: both; background: url(NewPitch.png) no-repeat; height: 228px; margin: 20px 0px 30px; padding: 60px 360px 0px 30px; }
 		#pitch h1 { font-size: 2.4em; color: #304D6F; margin: 0 0 20px; }
 		#pitch em { font-size: 1.3em; font-weight: bold; line-height: 1.6em; }
-.content { background: url(../images/content.gif) repeat; padding: 20px; }
+.content { background: url(content.gif) repeat; padding: 20px; }
 .link { background: #304D6F; color: #fff; padding: 5px 10px; font-size: .9em; }
 #main { padding: 20px; }
 .col { float: left; width: 292px; margin: 0 30px 15px 0; }
@@ -35,7 +35,7 @@ img { outline: 0; border: 0; }
 	.short { padding: 0 0 15px 0; background: url(line.gif) repeat-x left bottom; }
 	.case a, .article a { color: #ddd; font-weight: bold; }
 	.date { font-size: .84em; margin: 0 0 3px; }
-#footer { clear: both; background: url(../images/line.gif) repeat-x; padding: 20px 20px 10px; font-size: .9em; }
+#footer { clear: both; background: url(line.gif) repeat-x; padding: 20px 20px 10px; font-size: .9em; }
 	#footer a { color: #ccc; margin: 0 10px 0 0; border-bottom: 1px dotted #444; padding: 0 0 1px; }
 	#links { float: right; }
 		#links a { margin: 0 0 0 10px; }
