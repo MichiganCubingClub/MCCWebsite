@@ -40,3 +40,17 @@ img { outline: 0; border: 0; }
 	#links { float: right; }
 		#links a { margin: 0 0 0 10px; }
 	#footer p { margin: 0 0 8px; }
+.faqLink
+{
+	display: inline;
+	font-size: 16px;
+}
+
+li p{
+	font-size: 16px;
+}
+
+li h3
+{
+	color: white;
+}
